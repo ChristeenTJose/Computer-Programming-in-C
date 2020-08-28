@@ -19,3 +19,15 @@ This repository contains my own implementations of popular algorithms and data s
   * [Worst Fit.c](https://github.com/ChristeenTJose/Computer-Programming-in-C/blob/master/Operating%20Systems/Non-%20Continuous%20memory%20allocation/Worst%20Fit.c)
 * Page Replacement Policies
 * Process Scheduling Algorithms
+
+---
+## II. Data Structures
+
+---
+## III. Algorithms
+
+---
+## IV. Simple but Useful Programs
+
+---
+
