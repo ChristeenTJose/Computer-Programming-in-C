@@ -1,5 +1,7 @@
 # Computer Programming in C
- This repository contains my own implementations of popular algorithms and data structures. It also includes implementations of algorithms used in Operating Systems
+
+This repository contains my own implementations of popular algorithms and data structures. It also includes implementations of algorithms used in Operating Systems
+
 ---
 
 ## I. Operating Systems
