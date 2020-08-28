@@ -4,7 +4,7 @@ This repository contains my own implementations of popular algorithms and data s
 
 ---
 
-## I. Operating Systems
+## 1. Operating Systems
 * Banker's Algorithm
   * [Bankers-algorithm.c](https://github.com/ChristeenTJose/Computer-Programming-in-C/blob/master/Operating%20Systems/Bankers%20Algorithm/Bankers-algorithm.c)
 * Disk Scheduling Alogorithms
